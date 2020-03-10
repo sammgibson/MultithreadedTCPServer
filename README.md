@@ -1,12 +1,10 @@
- # CSE 130 Assignment #2: HTTP Server
+ # HTTP Server
 
 ## Overview
-The goal of this assignment is to create a multithreaded  HTTP server that can respond to basic requests such as GET and PUT. This program responds to curls and can log all requests.
+The goal of this project was to create a multithreaded HTTP server that can respond to basic requests such as GET and PUT. This program responds to curls and can log all requests.
 This repo contains five files.
 - **Makefile:** Creates the httpserver executable
 - **httpserver.cpp:** Program file, creates and runs a basic HTTP server.
-- **WRITEUP.pdf:** Describes the testing done.
-- **DESIGN.pdf:** Short summary describing the outline of the program.
 - **README.md:** Description of program.
  
 ## Program Execution
